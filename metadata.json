@@ -1,0 +1,6 @@
+{
+  "name": "تكنوستور - متجر الإلكترونيات وتطبيق Android Studio",
+  "description": "تطبيق متجر إلكترونيات متكامل مع نظام Android Java كامل قابل للتنزيل والتجربة مع لوحة تحكم وسلة وتسجيل دخول.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
